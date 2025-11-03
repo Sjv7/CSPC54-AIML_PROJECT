@@ -1,9 +1,9 @@
 # CSPC54-AIML_PROJECT
 --README--
 
-106123115: Sandhiya J
-106123121: Shikhar Mohan Gautam
-106123123: Shyam Sunder S
+106123115: Sandhiya J, 
+106123121: Shikhar Mohan Gautam, 
+106123123: Shyam Sunder S, 
 106123139: Sowmya V
 
 Please follow these steps to see the output of the program:
